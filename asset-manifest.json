@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cafeyson/static/css/main.75c0408d.chunk.css",
-    "main.js": "/Cafeyson/static/js/main.7c561a6b.chunk.js",
-    "main.js.map": "/Cafeyson/static/js/main.7c561a6b.chunk.js.map",
+    "main.js": "/Cafeyson/static/js/main.47bce042.chunk.js",
+    "main.js.map": "/Cafeyson/static/js/main.47bce042.chunk.js.map",
     "runtime-main.js": "/Cafeyson/static/js/runtime-main.e0e88c90.js",
     "runtime-main.js.map": "/Cafeyson/static/js/runtime-main.e0e88c90.js.map",
     "static/js/2.910eb6d6.chunk.js": "/Cafeyson/static/js/2.910eb6d6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e0e88c90.js",
     "static/js/2.910eb6d6.chunk.js",
     "static/css/main.75c0408d.chunk.css",
-    "static/js/main.7c561a6b.chunk.js"
+    "static/js/main.47bce042.chunk.js"
   ]
 }
